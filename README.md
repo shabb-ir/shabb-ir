@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shabb-ir
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning about Neural Networks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to Machine Learning as well as expand my horizon by creating different work cases and models 
 - 📫 How to reach me: shabbirasgartanki@gmail.com
 
 <!---
